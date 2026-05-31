@@ -1,7 +1,5 @@
 # Act One: Kubernetes is the right place to run agentic AI
 
-Estimated time: 10 minutes
-
 ## 1) Introduction: the problem this session solves
 
 - Agentic AI workloads do not behave like normal services.

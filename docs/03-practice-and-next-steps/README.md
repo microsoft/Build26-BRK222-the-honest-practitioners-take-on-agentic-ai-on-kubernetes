@@ -1,7 +1,5 @@
 # Act Three: What this looks like in practice
 
-Estimated time: 10 minutes
-
 ## 8) Customer architectures in practice
 
 Short architecture vignettes aligned to the layer-cake model (serving -> training/RL -> agentic -> platform substrate):

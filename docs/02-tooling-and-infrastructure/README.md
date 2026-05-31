@@ -1,7 +1,5 @@
 # Act Two: Purpose-built tooling and managed infrastructure for AI at scale
 
-Estimated time: 25 minutes
-
 ## 4) Inference and serving: KAITO and AI Runway
 
 - Start with practical production concerns: running models reliably.
