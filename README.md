@@ -109,6 +109,11 @@ For more info, other clients, and to post questions, visit the [Learn MCP Server
         <sub><b>Cory Skimming</b></sub></a><br />
             <a href="https://github.com/CSKIMM" title="talk">📢</a>
     </td>
+    <td align="center"><a href="https://github.com/lachie83">
+        <img src="https://github.com/lachie83.png" width="100px;" alt="Lachie Evenson"/><br />
+        <sub><b>Lachie Evenson</b></sub></a><br />
+            <a href="https://github.com/lachie83" title="talk">📢</a>
+    </td>
 </tr></table>
 
 ## Contributing
