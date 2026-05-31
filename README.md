@@ -45,13 +45,6 @@ Once your content is in the repo, use these three phrases with Copilot to build 
 
 Agentic AI workloads are stateful, bursty, and multi-step, and they often span infrastructure beyond a single cluster. This breakout focuses on what it actually takes to run AI at scale on Kubernetes while keeping systems operable, including practical patterns for serving, training, orchestration, and fleet operations.
 
-### 🚀 Getting started
-
-If you're following these steps at your own pace:
-- Clone this repository
-- Set up your development environment
-- <!-- step 3 -->
-
 ### 🧠 Learning Outcomes
 
 By the end of this presentation, you will be able to:
