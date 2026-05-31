@@ -39,20 +39,13 @@ Once your content is in the repo, use these three phrases with Copilot to build 
 
 # [Microsoft Build 2026](https://build.microsoft.com)
 
-## 🔥 BRKXXX: SESSION TITLE
+## 🔥 BRK222: The honest practitioner's take on agentic AI on Kubernetes
 
 ### Session Description
 
-*Add Session Description*
+Agentic AI workloads are stateful, bursty, and multi-step, and they often span infrastructure beyond a single cluster. This breakout focuses on what it actually takes to run AI at scale on Kubernetes while keeping systems operable, including practical patterns for serving, training, orchestration, and fleet operations.
 
-### 🏫 Getting started in a guided session
-
-To get started in a guided lab session:
-- <!-- step 1 -->
-- <!-- step 2 -->
-- <!-- step 3 -->
-
-### 🏠 Getting started in your own environment
+### 🚀 Getting started
 
 If you're following these steps at your own pace:
 - Clone this repository
@@ -61,15 +54,15 @@ If you're following these steps at your own pace:
 
 ### 🧠 Learning Outcomes
 
-By the end of this session, you will be able to:
+By the end of this presentation, you will be able to:
 
-- <!-- outcome 1 -->
-- <!-- outcome 2 -->
-- <!-- outcome 3 -->
+- Explain why Kubernetes is a practical substrate for production agentic AI workloads.
+- Evaluate build-vs-buy tradeoffs across serving, training/RL, and agent orchestration layers.
+- Apply operational patterns for scaling AI systems on Azure Kubernetes Service, including fleet-level operations.
 
 ### 💬 Keep Learning with Copilot
 
-Try these prompts with GitHub Copilot to explore the topics from this session. Open Copilot Chat in VS Code (`Ctrl+Alt+I` on Windows/Linux, `Cmd+Shift+I` on Mac), paste a prompt, and see what you learn. Try connecting the [Microsoft Learn MCP Server](#-microsoft-learn-mcp-server) for the latest official documentation.
+Try these prompts with GitHub Copilot to explore the topics from this presentation. Open Copilot Chat in Visual Studio Code (`Ctrl+Alt+I` on Windows/Linux, `Cmd+Shift+I` on Mac), paste a prompt, and see what you learn. Try connecting the [Microsoft Learn MCP Server](#-microsoft-learn-mcp-server) for the latest official documentation.
 
 Use these as a starting point — or write your own!
 
@@ -79,14 +72,18 @@ Use these as a starting point — or write your own!
 
 ### 💻 Technologies Used
 
-1. <!-- technology 1 -->
-1. <!-- technology 2 -->
-1. <!-- technology 3 -->
+1. [Kubernetes](https://kubernetes.io/docs/concepts/)
+1. [Azure Kubernetes Service (AKS)](https://learn.microsoft.com/azure/aks/what-is-aks)
+1. [KAITO](https://learn.microsoft.com/azure/aks/kaito-custom-inference-model) ([kaito-project/kaito](https://github.com/kaito-project/kaito))
+1. [Ray on Azure Kubernetes Service](https://learn.microsoft.com/azure/aks/ray-overview) ([ray-project/ray](https://github.com/ray-project/ray), [Anyscale Platform](https://www.anyscale.com/platform))
+1. [KEDA add-on for Azure Kubernetes Service](https://learn.microsoft.com/azure/aks/keda-about) ([kedacore/keda](https://github.com/kedacore/keda), [kubernetes-sigs/karpenter: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.](https://github.com/kubernetes-sigs/karpenter))
+1. [Azure Kubernetes Fleet Manager](https://learn.microsoft.com/azure/kubernetes-fleet/overview)
 
 ### 📚 Resources and Next Steps
 
 | Resource | Description |
 |:---------|:------------|
+| [LAB510: Take LLMs from prototype to production on AKS](https://github.com/microsoft/Build26-LAB510-take-llms-from-prototype-to-production-on-aks) | Related Microsoft Build 2026 lab for production LLM workloads on Azure Kubernetes Service |
 | [https://aka.ms/build26-next-steps](https://aka.ms/build26-next-steps) | Explore lab and session repos to further your learning from Microsoft Build |
 
 
@@ -108,17 +105,12 @@ For more info, other clients, and to post questions, visit the [Learn MCP Server
 
 ## Content Owners
 
-<!-- TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url. -->
-
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/yourGitHubHandle">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
+    <td align="center"><a href="https://github.com/CSKIMM">
+        <img src="https://github.com/CSKIMM.png" width="100px;" alt="Cory Skimming"/><br />
+        <sub><b>Cory Skimming</b></sub></a><br />
+            <a href="https://github.com/CSKIMM" title="talk">📢</a>
     </td>
 </tr></table>
 
