@@ -77,6 +77,7 @@ Use these as a starting point — or write your own!
 
 | Resource | Description |
 |:---------|:------------|
+| [BRK222 Session Page (Recording and Slides)](https://build.microsoft.com/en-US/sessions/BRK222?source=sessions) | Official Microsoft Build session page with links to the recording and slide deck |
 | [LAB510: Take LLMs from prototype to production on AKS](https://github.com/microsoft/Build26-LAB510-take-llms-from-prototype-to-production-on-aks) | Related Microsoft Build 2026 lab for production LLM workloads on Azure Kubernetes Service |
 | [AKS Hands-on Labs](http://aka.ms/AKS/labs) | Hands-on Azure Kubernetes Service labs for guided practice and self-study |
 | [AKS Community on YouTube](https://www.youtube.com/@theakscommunity) | Community videos, demos, and updates for Azure Kubernetes Service practitioners |
