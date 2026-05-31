@@ -75,14 +75,18 @@ Use these as a starting point — or write your own!
 1. [Kubernetes](https://kubernetes.io/docs/concepts/)
 1. [Azure Kubernetes Service (AKS)](https://learn.microsoft.com/azure/aks/what-is-aks)
 1. [KAITO](https://learn.microsoft.com/azure/aks/kaito-custom-inference-model) ([kaito-project/kaito](https://github.com/kaito-project/kaito))
+1. [AI Runway](https://github.com/kaito-project/airunway) ([kaito-project/airunway: ✈️ Kubernetes-native platform for deploying and managing AI inference across multiple providers](https://github.com/kaito-project/airunway))
 1. [Ray on Azure Kubernetes Service](https://learn.microsoft.com/azure/aks/ray-overview) ([ray-project/ray](https://github.com/ray-project/ray), [Anyscale Platform](https://www.anyscale.com/platform))
-1. [KEDA add-on for Azure Kubernetes Service](https://learn.microsoft.com/azure/aks/keda-about) ([kedacore/keda](https://github.com/kedacore/keda), [kubernetes-sigs/karpenter: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.](https://github.com/kubernetes-sigs/karpenter))
+1. [KEDA add-on for Azure Kubernetes Service](https://learn.microsoft.com/azure/aks/keda-about) ([kedacore/keda](https://github.com/kedacore/keda))
+1. [Karpenter](https://github.com/kubernetes-sigs/karpenter) ([kubernetes-sigs/karpenter: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.](https://github.com/kubernetes-sigs/karpenter))
 1. [Azure Kubernetes Fleet Manager](https://learn.microsoft.com/azure/kubernetes-fleet/overview)
 
 ### 📚 Resources and Next Steps
 
 | Resource | Description |
 |:---------|:------------|
+| [AKS Hands-on Labs](http://aka.ms/AKS/labs) | Hands-on Azure Kubernetes Service labs for guided practice and self-study |
+| [AKS Community on YouTube](https://www.youtube.com/@theakscommunity) | Community videos, demos, and updates for Azure Kubernetes Service practitioners |
 | [LAB510: Take LLMs from prototype to production on AKS](https://github.com/microsoft/Build26-LAB510-take-llms-from-prototype-to-production-on-aks) | Related Microsoft Build 2026 lab for production LLM workloads on Azure Kubernetes Service |
 | [https://aka.ms/build26-next-steps](https://aka.ms/build26-next-steps) | Explore lab and session repos to further your learning from Microsoft Build |
 
