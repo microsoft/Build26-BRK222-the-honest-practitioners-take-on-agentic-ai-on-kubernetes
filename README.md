@@ -66,6 +66,7 @@ Use these as a starting point — or write your own!
 ### 💻 Technologies Used
 
 1. Kubernetes: [Kubernetes](https://github.com/kubernetes/kubernetes), [Kubernetes Docs](https://kubernetes.io/docs/concepts/), [Azure Kubernetes Service (AKS)](https://learn.microsoft.com/azure/aks/what-is-aks)
+1. AKS Automatic: [AKS Automatic](https://learn.microsoft.com/azure/aks/intro-aks-automatic)
 1. KAITO: [KAITO](https://github.com/kaito-project/kaito), [KAITO on Azure Kubernetes Service](https://learn.microsoft.com/azure/aks/kaito-custom-inference-model)
 1. AI Runway: [AI Runway](https://github.com/kaito-project/airunway)
 1. Ray: [Ray](https://github.com/ray-project/ray), [Ray on Azure Kubernetes Service](https://learn.microsoft.com/azure/aks/ray-overview), [Anyscale Platform](https://www.anyscale.com/platform)
