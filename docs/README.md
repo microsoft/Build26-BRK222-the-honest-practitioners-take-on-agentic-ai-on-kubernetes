@@ -1,16 +1,15 @@
-# /docs
+# Session Documentation
 
-This folder is for documentation and step-by-step content for your session.
+This folder contains attendee-facing walkthrough notes for:
 
-## What goes here
+- BRK222: The honest practitioner's take on agentic AI on Kubernetes
 
-- **Labs/Workshops**: Step-by-step instructions organized into numbered exercises (e.g., `01-setup/`, `02-first-exercise/`)
-- **Demos**: Walkthrough documentation explaining the demo code in `/src`
-- **Breakouts**: Supplementary documentation, diagrams, or reference material
+Start here:
 
-## Tips
+- [Session walkthrough index](index.md)
 
-- Use numbered prefixes for ordering: `01-setup/`, `02-exercise/`, `03-wrap-up/`
-- Each subfolder can have its own `README.md` or `index.md`
-- Keep images in an `assets/` subfolder if needed
-- If your session doesn't have documentation beyond the README, feel free to remove this folder
+Act-by-act notes:
+
+- [Act One: Kubernetes as AI substrate](01-kubernetes-as-ai-substrate/README.md)
+- [Act Two: Tooling and managed infrastructure](02-tooling-and-infrastructure/README.md)
+- [Act Three: Practice and next steps](03-practice-and-next-steps/README.md)
