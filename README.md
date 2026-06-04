@@ -44,6 +44,7 @@ Try prompts with GitHub Copilot to explore the topics from this presentation. Op
 | [AKS Hands-on Labs](http://aka.ms/AKS/labs) | Hands-on Azure Kubernetes Service labs for guided practice and self-study |
 | [AKS Community on YouTube](https://www.youtube.com/@theakscommunity) | Community videos, demos, and updates for Azure Kubernetes Service practitioners |
 | [https://aka.ms/build26-next-steps](https://aka.ms/build26-next-steps) | Explore lab and session repos to further your learning from Microsoft Build |
+| [Watch the session recording](https://aka.ms/build26/BRK222/youtube) | Watch the recorded Microsoft Build session. |
 
 
 ### 🌟 Microsoft Learn MCP Server
